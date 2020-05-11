@@ -1,0 +1,2 @@
+rootProject.name='Wx-apple-jump-demo'
+include ':app'
